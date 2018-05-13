@@ -19,7 +19,7 @@ public class BinarySearch {
 
         System.out.println("\n");
 
-        int j = 53;
+        int j = 54;
         int first = 0;
         int last = array.length;
         int middle;
