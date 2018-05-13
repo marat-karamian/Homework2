@@ -17,7 +17,6 @@ public class BinarySearch {
         }
         System.out.println("Sorted:" + "\n" + Arrays.toString(array));
 
-        System.out.println("\n");
 
         int j = 54;
         int first = 0;
